@@ -1,0 +1,6 @@
+@AppleStore_HostAddress = http://localhost:5254
+
+GET {{AppleStore_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
