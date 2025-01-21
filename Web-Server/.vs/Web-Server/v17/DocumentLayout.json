@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\employees\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\employees\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\employees\\employeerequst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\employees\\employeerequst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\jwt\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\models\\canditate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\models\\canditate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\models\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\models\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\models\\absence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|c:\\users\\\u043C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\web-server\\web-server\\context\\test11234context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5033270C-9580-4170-8E31-66DEA1529D26}|Web-Server\\Web-Server.csproj|solutionrelative:web-server\\context\\test11234context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Program.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Program.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Program.cs",
+              "RelativeToolTip": "Web-Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:28:32.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Calendar.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Models\\Calendar.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Calendar.cs",
+              "RelativeToolTip": "Web-Server\\Models\\Calendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:52:33.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Absence.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Absence.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Models\\Absence.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Absence.cs",
+              "RelativeToolTip": "Web-Server\\Models\\Absence.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:52:33.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRequst.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Employees\\EmployeeRequst.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Employees\\EmployeeRequst.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Employees\\EmployeeRequst.cs",
+              "RelativeToolTip": "Web-Server\\Employees\\EmployeeRequst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:51:27.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Employees\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Employees\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Employees\\EmployeeModel.cs",
+              "RelativeToolTip": "Web-Server\\Employees\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:32:55.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Employee.cs",
+              "RelativeToolTip": "Web-Server\\Models\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:29:33.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Web-Server\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAHwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:28:58.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test11234Context.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Context\\Test11234Context.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Context\\Test11234Context.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Context\\Test11234Context.cs",
+              "RelativeToolTip": "Web-Server\\Context\\Test11234Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:28:23.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Controllers\\DocumentController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "Web-Server\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:21:43.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Web-Server\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:21:29.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Jwt\\JwtService.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Jwt\\JwtService.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Jwt\\JwtService.cs",
+              "RelativeToolTip": "Web-Server\\Jwt\\JwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T09:13:11.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Canditate.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Canditate.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Models\\Canditate.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Canditate.cs",
+              "RelativeToolTip": "Web-Server\\Models\\Canditate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:52:34.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Web-Server\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0433\u043D\u0430\u0442\\source\\repos\\Web-Server\\Web-Server\\Models\\Department.cs",
+              "RelativeToolTip": "Web-Server\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T08:52:34.959Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
